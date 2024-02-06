@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import BackgroundTemplate from "./components/Background/BackgroundTemplate";
+import AntdTable from './components/Table/AntdTable';
 
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
   
   return (
     <>
-      <BackgroundTemplate></BackgroundTemplate>
+      <AntdTable></AntdTable>
     </>
   )
 }

@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.3.0",
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.15.6",
@@ -17,9 +18,13 @@
     "@mui/x-data-grid": "^6.19.1",
     "@react-navigation/drawer": "^6.6.2",
     "@react-navigation/native": "^6.1.6",
+    "antd": "^5.14.0",
+    "axios": "^1.6.7",
     "boxicons": "^2.1.4",
+    "lodash": "^4.17.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-highlight-words": "^0.20.0",
     "react-icons": "^4.8.0",
     "react-sidebar-pro": "^3.1.1"
   },
